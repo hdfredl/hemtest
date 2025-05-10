@@ -54,5 +54,3 @@ public class Counter
 // Source:
 // https://stackoverflow.com/questions/9929279/to-count-the-frequency-of-each-word
 // https://stackoverflow.com/questions/41548562/how-can-i-count-occurences-of-two-words-following-each-other-in-a-string-in-c/41548832
-
-// FIX README and remind user of: \n if Enter is required.
